@@ -5,8 +5,9 @@ This portfolio is a project using HTML, CSS and bootstrap. This Portfolio is to 
 
 [live Replit Deployment](https://portfolio.abhinandv1.repl.co)
 
+![Screenshot 2022-10-18 at 7 35 43 AM](https://user-images.githubusercontent.com/107241846/196318478-0cda122d-3857-4310-a215-08abc3aeb0f3.png)
 
-<img width="1145" alt="Screenshot 2022-07-25 at 9 55 59 AM" src="https://user-images.githubusercontent.com/107241846/180699173-22a2fefc-bf7c-48b0-8ac0-60e0d516b50a.png">
+
 
 ## Technologies used.
 
