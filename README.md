@@ -2,6 +2,7 @@
 This portfolio is a project using HTML, CSS and bootstrap. This Portfolio is to show case my projects.
 
 [live Heroku Deployment](https://portfolio-abhinand.herokuapp.com/)
+[live Github Deployment](https://abhinandvj6.github.io/portfolio/)
 
 [live Replit Deployment](https://portfolio.abhinandv1.repl.co)
 
